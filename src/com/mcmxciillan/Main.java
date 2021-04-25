@@ -1,6 +1,6 @@
-package com.coco;
+package com.mcmxciillan;
 
-import com.coco.sorts.BubbleSort;
+import com.mcmxciillan.sorts.BubbleSort;
 
 import java.util.Arrays;
 

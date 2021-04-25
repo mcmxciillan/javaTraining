@@ -1,4 +1,4 @@
-package com.coco.sorts;
+package com.mcmxciillan.sorts;
 
 public class BubbleSort {
 

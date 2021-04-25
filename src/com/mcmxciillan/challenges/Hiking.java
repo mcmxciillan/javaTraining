@@ -1,4 +1,4 @@
-package com.coco.challenges;
+package com.mcmxciillan.challenges;
 
 /**
  * An avid hiker keeps meticulous records of their hikes. During the last hike that took exactly steps, for every step it was noted if it was an uphill, , or a downhill, step. Hikes always start and end at sea level, and each step up or down represents a

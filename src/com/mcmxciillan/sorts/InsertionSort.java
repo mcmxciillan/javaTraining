@@ -1,6 +1,5 @@
-package com.coco.sorts;
+package com.mcmxciillan.sorts;
 
-import java.util.Scanner;
 // TODO WIP
 public class InsertionSort {
 
